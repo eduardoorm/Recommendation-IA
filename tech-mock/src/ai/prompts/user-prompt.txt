@@ -1,0 +1,13 @@
+ROLE: Software Developer. CV: Nombre: Juan Pérez Título: Estudiante de Ingeniería de Sistemas Educación:
+
+Universidad de Lima – Ingeniería de Sistemas (2018–2023) Experiencia Laboral:
+
+Estudiante sin experiencia laboral previa Proyectos:
+
+Proyecto personal: Aplicación web de tareas con Node.js y React Proyecto en equipo: Sistema de gestión de inventarios con Java Respuestas a preguntas de habilidades técnicas y blandas:
+
+Habilidades técnicas:
+
+Java, Spring, MySQL, Node.js, React Habilidades blandas:
+
+Trabajo en equipo Resolución de conflictos Toma de decisiones bajo presión

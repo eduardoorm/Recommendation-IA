@@ -1,0 +1,14 @@
+services:
+  api-gateway:
+    build:
+      context: ./api-gateway  # Ruta a la carpeta api-gateway
+    ports:
+      - "3000:3000"  # Exponer el puerto 3000 del API Gateway al host
+    depends_on:
+      - tech-mock  # El API Gateway depende del microservicio
+
+  tech-mock:
+    build:
+      context: ./tech-mock  # Ruta a la carpeta recommendation-service
+    ports:
+      - "3001:3001"  # Exponer el puerto 3001 del microservicio al host
